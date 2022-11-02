@@ -2,10 +2,6 @@
 
 ### I'm a learn to Python programmer.
 
-I like
-- coding of course :computer:
-- Python :python:
-
 ---
 
 ### My Skills 
